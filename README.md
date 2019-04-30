@@ -1,0 +1,2 @@
+# next-cookie-auth
+test
